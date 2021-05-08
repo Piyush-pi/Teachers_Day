@@ -21,7 +21,7 @@
     <div class="container-fluid" style="text-align: center;">
         <!-- <img src = "../images/Image_1.jpg" style="width: 100%; height: 600px;"> 
             <img src=" " style="width: 100%; height: 600px;">   -->
-       <!-- <div style="<?php echo "background-image: url(../images/".$_GET['back']. ".jpg);"; ?>" class="div-background">
+       <div style="<?php echo "background-image: url(../images/".$_GET['back']. ".jpg);"; ?>" class="div-background">
         <div class="container-fluid" style="text-align: center;">
 			<div style="width:100%; height:20%;">
 				<p><?php echo "../images/".$_GET['to']. ".jpg"; ?></p>
@@ -33,7 +33,7 @@
 				<p><?php echo "../images/".$_GET['from']. ".jpg"; ?></p>
 			</div>
 		</div>
-        </div> -->
+        </div> 
     </div>
 
     <div class="container-fluid" style="text-align: center;">

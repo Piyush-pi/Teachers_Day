@@ -8,3 +8,7 @@ Here in this project i used basic of :
 3. Bootstrap4
 4. PHP
 to build this website.
+
+The above website's first simple page can viewed on below link : 
+https://piyush-pi.github.io/Teachers_Day/
+Rest you cannot access to more pages because this link doesn't support php and backend languages.
